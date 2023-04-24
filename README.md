@@ -51,4 +51,6 @@ http://<endereço-ip-do-serviço>
 <h2> Considerações finais </h2>
 <p align="justify">
 Este projeto é apenas uma demonstração simples de como implantar um site HTML em um cluster do Kubernetes usando contêineres Docker. Você pode usar esses conceitos em projetos mais complexos e escaláveis.
+
+Em geral, sistemas distribuídos se referem a um conjunto de computadores ou dispositivos que trabalham juntos para fornecer um serviço, independentemente de como a alta disponibilidade é alcançada.
 </p>
