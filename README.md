@@ -22,7 +22,7 @@ Para executar este projeto, siga as etapas abaixo:
   <li>Clone este repositório em sua máquina:</li>
 bash
 Copy code
-git clone [https://github.com/seu-usuario/site-html-kubernetes.git](https://github.com/devops-davi/Arquitetura-de-sistema-distribuido-com-Kubernetes)
+git clone https://github.com/devops-davi/Arquitetura-de-sistema-distribuido-com-Kubernetes
   <li>Acesse o diretório raiz do projeto:</li>
 bash
 Copy code
